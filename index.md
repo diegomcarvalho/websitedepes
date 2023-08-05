@@ -9,25 +9,25 @@
       4. [Isenção de disciplinas](pages/isencao.md)
    3. [Frequencia](pages/frequencia.md) 
 2. Declarações
-   1. De matrícula em curso
-   2. Histórico escolar
-   3. Relatório de integralização
+   1. [De matrícula em curso](pages/decmat.md)
+   2. [Histórico escolar](pages/hist.md)
+   3. [Relatório de integralização](pages/integralizacao.md)
 3. Provas e avaliações
    1. Revisão de nota
    2. Revisão de prova
    3. Segunda chamada
 4. Matrícula
-   1. Rematrícula
-   2. Abandono
+   1. [Rematrícula](pages/rematricula.md)
+   2. [Abandono](pages/abandono.md)
    3. [Cancelamento](pages/cancelamento.md)
-   4. Trancamento de disciplina
-   5. Trancamento de matrícula
+   4. [Trancamento de disciplina](pages/trancdisciplina.md)
+   5. [Trancamento de matrícula](pages/trancmatricula.md)
 5. Horários
-   1. Horário das turmas
-   2. Calendários
+   1. [Horário das turmas](pages/horario.md)
+   2. [Calendários](calendarios.md)
 6. Ferramentas
    1. [email institucional](pages/email.md)
-   2. Teams
+   2. [Teams](pages/teams.md)
    3. Laboratórios virtuais
    4. Colan
 7. Estágio
