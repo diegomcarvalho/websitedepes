@@ -4,7 +4,7 @@
    1. [Projeto Pedagógico de Curso](pages/PPC.md)
    2. Desempenho
       1. [Coeficiente de Rendimento](pages/CR.md)
-      2. Reprovação
+      2. [Avaliação das disciplinas](pages/avaliacao.md)
       3. Cadd
       4. Isenção de disciplinas
 2. Declarações
