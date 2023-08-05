@@ -26,7 +26,7 @@
    1. Horário das turmas
    2. Calendários
 6. Ferramentas
-   1. email institucional
+   1. [email institucional](pages/emailmd)
    2. Teams
    3. Laboratórios virtuais
    4. Colan
