@@ -19,7 +19,7 @@
 4. Matrícula
    1. Rematrícula
    2. Abandono
-   3. Cancelamento
+   3. [Cancelamento](pages/cancelamento.md)
    4. Trancamento de disciplina
    5. Trancamento de matrícula
 5. Horários
