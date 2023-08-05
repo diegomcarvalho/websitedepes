@@ -6,7 +6,7 @@
       1. [Coeficiente de Rendimento](pages/CR.md)
       2. [Avaliação das disciplinas](pages/avaliacao.md)
       3. Cadd
-      4. Isenção de disciplinas
+      4. [Isenção de disciplinas](pages/isencao.md)
    3. [Frequencia](pages/frequencia.md) 
 2. Declarações
    1. De matrícula em curso
