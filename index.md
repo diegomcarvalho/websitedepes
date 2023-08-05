@@ -7,7 +7,7 @@
       2. [Avaliação das disciplinas](pages/avaliacao.md)
       3. Cadd
       4. Isenção de disciplinas
-   3. [Frequencia](frquencia.md) 
+   3. [Frequencia](pages/frquencia.md) 
 2. Declarações
    1. De matrícula em curso
    2. Histórico escolar
