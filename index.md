@@ -31,7 +31,7 @@
    3. Laboratórios virtuais
    4. Colan
 7. Estágio
-   1. Interno
+   1. [Interno](pages/estagio_interno.md)
    2. Supervisionado
    3. Não supervisionado
 8. Extensão
