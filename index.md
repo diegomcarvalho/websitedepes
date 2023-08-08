@@ -7,7 +7,7 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
    2. Desempenho
       1. [Coeficiente de Rendimento](pages/CR.md)
       2. [Avaliação das disciplinas](pages/avaliacao.md)
-      3. Cadd
+      3. [Cadd](pages/cadd.md)
       4. [Isenção de disciplinas](pages/isencao.md)
    3. [Frequencia](pages/frequencia.md) 
 2. Declarações
