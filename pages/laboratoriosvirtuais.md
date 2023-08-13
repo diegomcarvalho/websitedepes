@@ -1,8 +1,4 @@
 Laboratórios virtuais (COLAN)
-Publicado: Sexta, 25 de Fevereiro de 2022, 21h09 | Última atualização em Quinta, 25 de Agosto de 2022, 16h42 | Acessos: 1712
-
-LABORATÓRIOS VIRTUAIS
-Laboratórios Virtuais – Definição
 
 Compreendemos o conceito de laboratórios virtuais como: um conjunto de ferramentas de software, hardware, modelos digitais de sistemas, ferramentas de engenharia assistida por computador (CAE), prototipagem virtual, simuladores numéricos, análise de elementos finitos e softwares de modelagem matemática aplicadas a uma determinada disciplina, área do saber ou eixo temático que permite acessibilidade, escalabilidade, inclusão digital e a extrapolação dos limites dos laboratórios físicos e salas de aula tradicionais. De modo que os discursos, saberes, a prática do ensino, da pesquisa e extensão possam acompanhar o aluno para além da instituição de ensino, podendo ser acessados em qualquer tempo e lugar. Os laboratórios virtuais podem complementar os laboratórios físicos ou até mesmo substituí-los, como ocorreu na pandemia. Eles surgem como uma camada de abstração onde conceitos podem ser assimilados, explorados e redescobertos pelos alunos de forma segura, proativa e colaborativa.  
 
