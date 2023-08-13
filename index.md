@@ -53,3 +53,4 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
 12. Extra curso
     1. Monitoria
     2. Iniciação Científica
+    3. Intercâmbio Estudantil
