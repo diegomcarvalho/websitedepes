@@ -48,8 +48,7 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
 11. Fim de curso
     1. [Projeto Final](pages/projeto_final.md)
     2. [Colação de grau](pages/colacao.md)
-    3. Nada consta
-    4. [Diploma](pages/diploma.md)
+    3. [Diploma](pages/diploma.md)
 12. Extra curso
     1. [Monitoria](pages/monitoria.md)
     2. [Iniciação Científica](pages/iniciacao_cientifica.md)
