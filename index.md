@@ -26,31 +26,31 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
    5. [Trancamento de matrícula](pages/trancmatricula.md)
 5. Horários
    1. [Horário das turmas](pages/horario.md)
-   2. [Calendários](calendarios.md)
+   2. [Calendários](pages/calendarios.md)
 6. Ferramentas
    1. [email institucional](pages/email.md)
    2. [Teams](pages/teams.md)
-   3. [Laboratórios virtuais](laboratorios_virtuais.md)
-   4. [Colan](colan.md)
+   3. [Laboratórios virtuais](pages/laboratorios_virtuais.md)
+   4. [Colan](pages/colan.md)
 7. Estágio
    1. [Interno](pages/estagio_interno.md)
    2. [Supervisionado](pages/estagio_supervisionado.md)
    3. [Não supervisionado](pages/estagio_nao_supervisionado.md)
 8. Extensão
-   1. Curricularização da extensão
-   2. Programas e projetos de extensão
+   1. [Curricularização da extensão](pages/curricularizacao_da_extensao.md)
+   2. [Programas e projetos de extensão](pages/programas_e_projetos_de_extensao.md)
 9. Atividades Complementares
-   1. Cursos
-   2. Palestras
+   1. [Cursos](pages/cursos.md)
+   2. [Palestras](pages/palestras.md)
 10. Mobilidade
-    1. Interna
-    2. Externa Andifes
+    1. [Interna](pages/mobilidade_interna.md)
+    2. [Externa Andifes](pages/mobilidade_externa_andifes.md)
 11. Fim de curso
-    1. Projeto Final
-    2. Colação de grau
+    1. [Projeto Final](pages/projeto_final.md)
+    2. [Colação de grau](pages/colacao_de_grau.md)
     3. Nada consta
-    4. Diploma
+    4. [Diploma](pages/diploma.md)
 12. Extra curso
-    1. Monitoria
-    2. Iniciação Científica
-    3. Intercâmbio Estudantil
+    1. [Monitoria](pages/monitoria.md)
+    2. [Iniciação Científica](pages/iniciacao_cientifica.md)
+    3. [Intercâmbio Estudantil](pages/intercambio_estudantil.md)
