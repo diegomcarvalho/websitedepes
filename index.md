@@ -15,9 +15,9 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
    2. [Histórico escolar](pages/hist.md)
    3. [Relatório de integralização](pages/integralizacao.md)
 3. Provas e avaliações
-   1. Revisão de nota
-   2. Revisão de prova
-   3. Segunda chamada
+   1. [Revisão de nota](pages/revisao_de_notas.md)
+   2. [Revisão de prova](pages/revisao_de_prova.md)
+   3. [Segunda chamada](pages/segunda_chamada.md)
 4. Matrícula
    1. [Rematrícula](pages/rematricula.md)
    2. [Abandono](pages/abandono.md)
@@ -30,12 +30,12 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
 6. Ferramentas
    1. [email institucional](pages/email.md)
    2. [Teams](pages/teams.md)
-   3. Laboratórios virtuais
-   4. Colan
+   3. [Laboratórios virtuais](laboratorios_virtuais.md)
+   4. [Colan](colan.md)
 7. Estágio
    1. [Interno](pages/estagio_interno.md)
-   2. Supervisionado
-   3. Não supervisionado
+   2. [Supervisionado](pages/estagio_supervisionado.md)
+   3. [Não supervisionado](pages/estagio_nao_supervisionado.md)
 8. Extensão
    1. Curricularização da extensão
    2. Programas e projetos de extensão
