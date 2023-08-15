@@ -47,7 +47,7 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
     2. [Externa Andifes](pages/mobilidade_externa_andifes.md)
 11. Fim de curso
     1. [Projeto Final](pages/projeto_final.md)
-    2. [Colação de grau](pages/colacao_de_grau.md)
+    2. [Colação de grau](pages/colacao.md)
     3. Nada consta
     4. [Diploma](pages/diploma.md)
 12. Extra curso
