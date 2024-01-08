@@ -18,3 +18,5 @@ a efetivação do mesmo.
 - O aluno que deixar de cumprir o Estágio Curricular Supervisionado nas datas previstas
 e não comunicar ao setor responsável pela disciplina de estágio supervisionado e o Professor
 Orientador, perderá o direito de conclusão de seu Estágio naquele semestre letivo.
+- O atendimento é feito de forma remota através do e-mail: estagiosupervisionado.depes@cefet-rj.br (colocar curso e matricula no final da mensagem).
+- É preciso ter endereço de e-mail institucional para nos enviar e-mails, acessar os formulários e enviar os documentos. Para criar e-mail institucional [clique aqui].
