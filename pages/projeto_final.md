@@ -1,32 +1,17 @@
-PROJETO FINAL E TRABALHO DE CONCLUSÃO DE CURSO
-Alguns documentos norteadores de Projetos e TCC.
+PROJETO FINAL 
 
-Resoluções:
+As normas de Projeto Final foram elaboradas pelo Departamento de Educação Superior com o propósito de padronizar os trabalhos de conclusão de curso e orientar os alunos quanto à sua realização. É considerado apto à realização do Projeto Final, o aluno que cumpriu os pré-requisitos necessários e estiver regularmente matriculado e frequentando a disciplina de Projeto Final I ou II do curso. O Projeto Final é uma etapa obrigatória em vários cursos e de grande importância para o processo de formação profissional, onde os conhecimentos adquiridos ao longo de todo o curso são utilizados para a elaboração de trabalhos orientados para temas de relevância técnica, social e econômica. Cabe destacar que o Projeto Final representa, também, uma oportunidade de exercitar questões relacionadas a trabalho em equipe, à pesquisa, ao cumprimento de prazos, à ética e responsabilidade profissional. Desta forma, o Projeto Final deve ser encarado com a seriedade que lhe cabe e sua execução deve seguir rigorosamente os procedimentos especificados na norma. Sendo o Projeto Final o coroamento de todo um trabalho realizado no curso de graduação, constitui um instrumento fundamental na avaliação dos conhecimentos adquiridos.
 
-RESOLUÇÃO Nº 02_2020 - SANCIONA AS NORMAS PARA ELABORAÇÃO E DEFESA DE PROJETO FINAL
+O projeto final dos cursos de graduação do CEFET/RJ está estruturado em duas disciplinas: Projeto Final I e Projeto Final II. Cada disciplina será ministrada em um período de forma que o projeto completo deverá ser concluído no prazo de um ano. Cabe ressaltar que a disciplina Projeto Final I é pré-requisito da disciplina Projeto Final II. Os estudos preliminares para o desenvolvimento do trabalho devem ser realizados na disciplina Projeto Final I. Esta primeira etapa contempla a análise de viabilidade, a pesquisa bibliográfica, a compreensão dos fundamentos teóricos que regem o tema, a aquisição de material, quando necessária, esboço do projeto, adequação laboratorial para montagem de protótipos (quando for o caso), definição dos capítulos da monografia e escrita de sua parte inicial. Na etapa seguinte, que corresponde à realização da Disciplina Projeto Final II, o trabalho proposto será de fato executado. Cada disciplina de Projeto Final terá um professor coordenador nomeado pelo chefe da coordenação. Caberá ao professor coordenador da disciplina Projeto Final I, organizar os grupos de projeto, colaborar na indicação do professor orientador e acompanhar a evolução dos trabalhos. O professor coordenador da disciplina Projeto Final II deverá definir o período em que se realizarão as defesas dos trabalhos e orientar os alunos quanto ao cumprimento dos prazos. 
 
-RESOLUÇÃO Nº 04_2020 - REGULAMENTA AS DEFESAS REMOTAS ASSÍNCRONAS DE TCC
-
-Norma de Elaboração de Projeto final e TCC
-
+A seguir documentos referentes as Norma de Elaboração de Projeto Final
 Norma de elaboração
-
-Apêndice A - Proposta de Projeto Final
-
-Apêndice B - Ata de Defesa de Projeto Final
-
-Apêndice C -Termo de Responsabilidade.docx
-
-Apêndice D - Declaração de Realização das Modificações
-
-Apêndice E - Termo de Autorização para Divulgação do Projeto Final
-
-Apêndice F - Termo de Ciência e Compromisso.docx
-
-Apêndice G -Especificidades relacionadas ao desenvolvimento da DPF de cada curso, clique no nome do curso para ter o apêndice G do seu curso:
-
-(Eng. Ambiental)  (Eng. Automação) (Eng. Eletrotécnica) (Eng. Eletrônica) (Bach. em Física) (Bach. Líng. Estr. Aplic. Neg. Inter.) (Eng. Mecânica) (Bach. Administração) (Eng. Civil) (Bach. Cienc. Comp.) (Eng. Produção) (Eng. Telecomunicações)
-
+- Apêndice A - Proposta de Projeto Final
+- Apêndice B - Ata de Defesa de Projeto Final
+- Apêndice C -Termo de Responsabilidade.docx
+- Apêndice D - Declaração de Realização das Modificações
+- Apêndice E - Termo de Autorização para Divulgação do Projeto Final
+- Apêndice F - Termo de Ciência e Compromisso.docx
+- Apêndice G -Especificidades relacionadas ao desenvolvimento da DPF de cada curso, clique no nome do curso para ter o apêndice G do seu curso: (Eng. Ambiental)  (Eng. Automação) (Eng. Eletrotécnica) (Eng. Eletrônica) (Bach. em Física) (Bach. Líng. Estr. Aplic. Neg. Inter.) (Eng. Mecânica) (Bach. Administração) (Eng. Civil) (Bach. Cienc. Comp.) (Eng. Produção) (Eng. Telecomunicações)
 Apêndice H - Modelo para Formatação de Projeto Final - LaTeX.zip
-
 Apêndice I - Modelo para formatação de Projeto Final - MSWord.doc
