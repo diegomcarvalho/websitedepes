@@ -8,7 +8,7 @@ A comissão de Acompanhamento de Desempenho Discente (CADD) é responsável pelo
 
 A seguir são disponibilizados os documentos referentes as CADD´S e sua atuação: 
 
-- Normas para funcionamento das CADD's
+- [Normas para funcionamento das CADD's](http://www.cefet-rj.br/attachments/article/3251/Regulamento%20CAD.pdf)
 - Guia para acompanhamento de alunos em situação irregular
 - Passo a passo para abertura do processo
 - Justificativa de abertura de processo
