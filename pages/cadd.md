@@ -9,21 +9,21 @@ A comissão de Acompanhamento de Desempenho Discente (CADD) é responsável pelo
 A seguir são disponibilizados os documentos referentes as CADD´S e sua atuação: 
 
 - [Normas para funcionamento das CADD's](http://www.cefet-rj.br/attachments/article/3251/Regulamento%20CAD.pdf)
-- Guia para acompanhamento de alunos em situação irregular
-- Passo a passo para abertura do processo
-- Justificativa de abertura de processo
-- Resolução CONEN
-- Resolução CONDEP
-- Plano de estudo
-- Termo de ciência de abertura de processo
-- Solicitação de cancelamento de registro acadêmico
-- Resolução 13/2023 - DIREN/CEFET/RJ, de 29 de junho de 2023 - Aprova regra de transição considerando o regime de exceção da pandemia ocorrida entre 2020 e 2022
-- CADD's Angra dos Reis
-- CADD's Itaguaí
-- CADD's Maracanã
-- CADD Maria da Graça
-- CADD's Nova Friburgo
-- CADD's Nova Iguaçu
-- CADD's Petrópolis
-- CADD's Valença
+- [Guia para acompanhamento de alunos em situação irregular](http://www.cefet-rj.br/attachments/article/3251/Manual%20Alunos%20Situac%CC%A7a%CC%83o%20Irregular%20(1).pdf)
+- [Passo a passo para abertura do processo]()
+- [Justificativa de abertura de processo]()
+- [Resolução CONEN](http://www.cefet-rj.br/attachments/article/3251/02%20-%20Resoluc%E2%95%A0%C2%BAa%E2%95%A0%C3%A2o%20CONEN%20n%E2%94%AC%E2%95%91%2001-2013.pdf)
+- [Resolução CONDEP](http://www.cefet-rj.br/attachments/article/3251/03%20-%20Resoluc%E2%95%A0%C2%BAa%E2%95%A0%C3%A2o%20CONDEP%20n%E2%94%AC%E2%95%91%2012-2009.jpg)
+- [Plano de estudo]()
+- [Termo de ciência de abertura de processo]()
+- [Solicitação de cancelamento de registro acadêmico]()
+- [Resolução 13/2023 - DIREN/CEFET/RJ, de 29 de junho de 2023 - Aprova regra de transição considerando o regime de exceção da pandemia ocorrida entre 2020 e 2022](http://www.cefet-rj.br/attachments/article/7862/Resolu%C3%A7%C3%A3o%20Conen%2013.2023.pdf)
+- [CADD's Angra dos Reis](http://www.cefet-rj.br/attachments/article/3251/CADD_Angra%20dos%20Reis.pdf)
+- [CADD's Itaguaí](http://www.cefet-rj.br/attachments/article/3251/CADD_Itagua%C3%AD_2023.pdf)
+- [CADD's Maracanã](http://www.cefet-rj.br/attachments/article/3251/CADD%20Maracan%C3%A3_Ato%20CONDEP_n%C2%BA7_2023.pdf)
+- [CADD Maria da Graça](http://www.cefet-rj.br/attachments/article/3251/CADD_Maria%20da%20Gra%C3%A7a.pdf)
+- [CADD's Nova Friburgo](http://www.cefet-rj.br/attachments/article/3251/CADD%20NF_2023.pdf)
+- [CADD's Nova Iguaçu](http://www.cefet-rj.br/attachments/article/3251/CADD_Nova%20Igua%C3%A7u.pdf)
+- [CADD's Petrópolis](http://www.cefet-rj.br/attachments/article/3251/CADD_Petr%C3%B3polis.pdf)
+- [CADD's Valença](http://www.cefet-rj.br/attachments/article/3251/CADD_Valen%C3%A7a.pdf)
 
