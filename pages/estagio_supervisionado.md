@@ -36,10 +36,10 @@ A) Após a aprovação do estágio pelo professor orientador da disciplina está
 B) Ficha de Frequência: deverá ser preenchida e assinada pelo Supervisor do estágio na empresa para a avaliação de desempenho do estagiário. Caso o aluno seja funcionário da empresa, estará isento de apresentá-la no ato da entrega do Relatório de Estágio.
 
 A seguir estão modelos e documentos norteadores para apoiar nos preenchimentos.
-- Dados da Disciplina: Professor orientador, carga horaria e pré-requisito da DES - por curso. (link para acessar documento)
-- Fluxo da disciplina: Orientações sobre a DES (link para acessar documento)
-- Passo a passo: Instruções para fazer as atividades (link para acessar documento)
-- Perguntas frequentes: Respostas para as principais dúvidas sobre a DES. (link para acessar documento)
+- [Dados da Disciplina: Professor orientador, carga horaria e pré-requisito da DES - por curso.](http://www.cefet-rj.br/attachments/article/201/Dados%20da%20Disciplina.pdf)
+- [Fluxo da disciplina: Orientações sobre a DES](http://www.cefet-rj.br/attachments/article/201/Fluxo%20da%20Disciplina.pdf)
+- [Passo a passo: Instruções para fazer as atividades](http://www.cefet-rj.br/attachments/article/201/Passo%20a%20Passo.pdf))
+- [Perguntas frequentes: Respostas para as principais dúvidas sobre a DES.](http://www.cefet-rj.br/attachments/article/201/Perguntas%20Frequentes%20.pdf)
 - Modelos de documentos: Plano de Atividades, Ficha de Frequência Modelo Estagiário, Ficha de Frequencia Modelo Empregado ou MEI e Capa de Relatório. (link para acessar documento)
 - Orientações de preenchimento: Plano de Atividades, Ficha de Frequência e Relatório. (link para acessar documento)
 
