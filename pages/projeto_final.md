@@ -6,12 +6,12 @@ O projeto final dos cursos de graduação do CEFET/RJ está estruturado em duas 
 
 A seguir documentos referentes as Norma de Elaboração de Projeto Final
 - [Norma de elaboração](http://www.cefet-rj.br/attachments/article/6595/NORMAS%20PARA%20ELABORA%C3%87%C3%83O%20E%20DEFESA%20DE%20PROJETO%20FINAL%20(1).pdf)
-- Apêndice A - Proposta de Projeto Final
-- Apêndice B - Ata de Defesa de Projeto Final
-- Apêndice C -Termo de Responsabilidade.docx
-- Apêndice D - Declaração de Realização das Modificações
-- Apêndice E - Termo de Autorização para Divulgação do Projeto Final
-- Apêndice F - Termo de Ciência e Compromisso.docx
+- Apêndice A - Proposta de Projeto Final (link para doc word)
+- Apêndice B - Ata de Defesa de Projeto Final (link para doc word)
+- Apêndice C -Termo de Responsabilidade.docx (link para doc word)
+- Apêndice D - Declaração de Realização das Modificações (link para doc word)
+- Apêndice E - Termo de Autorização para Divulgação do Projeto Final (link para doc word)
+- Apêndice F - Termo de Ciência e Compromisso.docx (link para doc word)
 - Apêndice G -Especificidades relacionadas ao desenvolvimento da DPF de cada curso, clique no nome do curso para ter o apêndice G do seu curso: [(Eng. Ambiental)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DEAMB%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf)  [(Eng. Automação)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DEAUT%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf) [(Eng. Eletrotécnica)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DEELE%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf) [(Eng. Eletrônica)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DEELT%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf) [(Bach. em Física)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DEFIS%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf) [(Bach. Líng. Estr. Aplic. Neg. Inter.)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DELEA%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf) [(Eng. Mecânica)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DEMEC%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF%20DEMEC%20vers%C3%A3o%202020%2010%2006.pdf) [(Bach. Administração)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DEPEA%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf) [(Eng. Civil)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DEPEC%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf) [(Bach. Cienc. Comp.)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DEPIN%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf) [(Eng. Produção)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DEPRO%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf) [(Eng. Telecomunicações)](http://www.cefet-rj.br/attachments/article/6595/Ap%C3%AAndice%20G%20-%20DETEL%20-%20Especificidades%20relacionadas%20ao%20desenvolvimento%20da%20DPF.pdf)
-- Apêndice H - Modelo para Formatação de Projeto Final - LaTeX.zip
-- Apêndice I - Modelo para formatação de Projeto Final - MSWord.doc
+- Apêndice H - Modelo para Formatação de Projeto Final - LaTeX.zip (link para doc word)
+- Apêndice I - Modelo para formatação de Projeto Final - MSWord.doc (link para doc word)
