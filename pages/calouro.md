@@ -26,14 +26,10 @@ Ambiente Virtual de Aprendizagem (AVA), baseado na ferramenta Moodle – AVA (av
 - A Secretaria Administrativa- SECAD/DEPES – secad.depes@cefet-rj.br - faz a interface entre o aluno e os departamentos acadêmicos e coordenações dos cursos.
 - Horários de aulas http://www.cefet-rj.br/index.php/horarios: Para abrir o arquivo será necessário usar o aplicativo Excel (online ou instalado no seu computador), você tem direito de usá-los utilizando a conta do CEFET, criada a partir do momento que você se cadastrou no site cefet-rj.br. 
 
--Para localizar a disciplina na planilha de horários: curso de bacharelado em (...) - código da disciplina = BCC/GADM/GAUT/GCIV/GEL/GELT/GFIS/GLEA/GMEC/GPROD/GTEL/WEB + número.
+- Para localizar a disciplina na planilha de horários: curso de bacharelado em (...) - código da disciplina = BCC/GADM/GAUT/GCIV/GEL/GELT/GFIS/GLEA/GMEC/GPROD/GTEL/WEB + número.
 
--Para ver a sua grade: Habilitar os filtros, clicar na primeira linha da tabela e no menu superior selecione a aba de dados e depois no ícone de Filtro; clicar no ícone ao lado da coluna “Período Ideal” e selecionar o Valor do seu período, no de um aluno de primeiro período seria “1”; depois Clicar no Ícone ao lado da coluna “Sigla” e selecionar o valor do seu curso GPRO. Agora a sua Grade já estará no formato adequado. 
-
--Portal do Aluno: Página de consulta das disciplinas que você está inscrito. No primeiro semestre a inscrição nas disciplinas de primeiro período é automática, a partir do segundo semestre você irá usá-lo para fazer sua matrículas nas disciplinas desejadas.
-
--Regimento Interno da Graduação (Manual do Aluno)
-
--Registro Acadêmico: O Departamento de Administração e Registros Acadêmicos – DERAC é o responsável pela matrícula, histórico, e todas as questões de documentação do aluno. Todo atendimento do DERAC é presencial.
-
--Dispensa/Isenção de Disciplinas: No caso do aluno que cursou disciplinas em outro curso de graduação, dentro ou fora do CEFET e queira solicitar dispensa de disciplinas equivalentes no CEFET, sugerimos ler o Manual do Aluno. O processo deverá ser aberto conforme o item na página http://www.cefet-rj.br/index.php/isencao-de-disciplina.
+- Para ver a sua grade: Habilitar os filtros, clicar na primeira linha da tabela e no menu superior selecione a aba de dados e depois no ícone de Filtro; clicar no ícone ao lado da coluna “Período Ideal” e selecionar o Valor do seu período, no de um aluno de primeiro período seria “1”; depois Clicar no Ícone ao lado da coluna “Sigla” e selecionar o valor do seu curso GPRO. Agora a sua Grade já estará no formato adequado. 
+- Portal do Aluno: Página de consulta das disciplinas que você está inscrito. No primeiro semestre a inscrição nas disciplinas de primeiro período é automática, a partir do segundo semestre você irá usá-lo para fazer sua matrículas nas disciplinas desejadas.
+- Regimento Interno da Graduação (Manual do Aluno)
+- Registro Acadêmico: O Departamento de Administração e Registros Acadêmicos – DERAC é o responsável pela matrícula, histórico, e todas as questões de documentação do aluno. Todo atendimento do DERAC é presencial.
+- Dispensa/Isenção de Disciplinas: No caso do aluno que cursou disciplinas em outro curso de graduação, dentro ou fora do CEFET e queira solicitar dispensa de disciplinas equivalentes no CEFET, sugerimos ler o Manual do Aluno. O processo deverá ser aberto conforme o item na página http://www.cefet-rj.br/index.php/isencao-de-disciplina.
