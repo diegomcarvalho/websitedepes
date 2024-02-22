@@ -8,11 +8,9 @@ Estarão aptos a requererem inscrição em uma determinada disciplina fora da su
 
 É Vedado ao aluno:
 
-• Cursar mais do que 6 (seis) disciplinas fora da Unidade de Origem;
-
-• Cursar mais do que 2 (duas) disciplinas fora da Unidade de Origem em um mesmo semestre;
-
-• Inscrever-se nas disciplinas Projeto Final I e II e Estágio Supervisionado fora da Unidade de Origem.
+- Cursar mais do que 6 (seis) disciplinas fora da Unidade de Origem;
+- Cursar mais do que 2 (duas) disciplinas fora da Unidade de Origem em um mesmo semestre;
+- Inscrever-se nas disciplinas Projeto Final I e II e Estágio Supervisionado fora da Unidade de Origem.
 
 O requerimento de inscrição deverá ser autorizado pelos Chefes de Departamento, tanto da Unidade de Origem quanto da Unidade de Destino.
 Os alunos da Unidade de Origem terão prioridade na inscrição em disciplinas sobre alunos de quaisquer outras unidades.
