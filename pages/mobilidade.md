@@ -18,6 +18,9 @@ A inscrição de alunos fora das suas Unidades ocorrerá sempre após a confirma
 A ordem de prioridade para o preenchimento das vagas para alunos de fora das Unidades terá como critério o Coeficiente de Rendimento Acumulado.
 Casos omissos serão analisados pelo Conselho de Ensino.
 
+O processo de mobilidade não é garantido, uma vez que depende de vagas disponíveis na turma interessada e como o processo é feito depois da terceira fase de matricula, o discente pode não conseguir cursar a disciplina.
+Caso o aluno peça mobilidade acadêmica a disciplina não deverá ser pedida no próprio curso, gerando duplicidade. Caso ocorra duplicidade a mobilidade será cancelada. 
+
 Programa de Mobilidade Acadêmica - Andifes
 
 Este Programa permite aos alunos regularmente matriculados em Instituições Federais de Ensino Superior (IFES) o vínculo temporário, de no máximo 1(um) ano, com outra Instituição Federal signatária do convênio, com o objetivo de cursar componentes curriculares que contribuam para integralização e flexibilização de sua formação acadêmica.
