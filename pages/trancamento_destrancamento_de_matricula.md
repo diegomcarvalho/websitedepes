@@ -1,4 +1,5 @@
 Trancamento Total da Matrícula
+
 O aluno que, por motivos pessoais, precisar requerer o trancamento de sua matrícula, poderá fazê-lo dentro do prazo previsto no Calendário Acadêmico, obedecendo às seguintes normas:
 
 - Não será permitido o trancamento total de matrícula para o aluno que não tenha integralizado um mínimo de 12 (doze) créditos.
@@ -8,6 +9,7 @@ O aluno que, por motivos pessoais, precisar requerer o trancamento de sua matrí
 IMPORTANTE: O aluno que não renovar ou trancar sua matrícula a cada semestre letivo, nas datas constantes no Calendário Acadêmico, será considerado em situação de abandono, perdendo direito à sua vaga no curso.
 
 Trancamento Parcial da Matrícula
+
 É a suspensão da matrícula em uma ou mais disciplinas, realizada por meio de requerimento do aluno, sendo observado:
 - O trancamento parcial de matrícula fica condicionado ao aluno permanecer matriculado
 em, pelo menos, 2 (duas) disciplinas em qualquer semestre letivo.
