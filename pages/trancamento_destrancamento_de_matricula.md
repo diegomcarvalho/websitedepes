@@ -21,5 +21,6 @@ pleitear nova matrícula na disciplina.
 
 Do Destrancamento da Matrícula
 
-    O aluno que estiver com matrícula trancada e desejar retornar às aulas no CEFET-RJ deverá entrar com requerimento na Secretaria Acadêmica dentro do prazo previsto no Calendário Acadêmico.
-    Ao destrancar sua matrícula, o aluno deverá se adaptar ao currículo que estiver em vigor e ainda terá analisadas aquelas disciplinas que, a critério do Departamento Acadêmico correspondente, tiverem mudado essencialmente de conteúdo.
+O aluno que estiver com matrícula trancada e desejar retornar às aulas no CEFET-RJ deverá entrar com requerimento na Secretaria Acadêmica dentro do prazo previsto no Calendário Acadêmico.
+
+Ao destrancar sua matrícula, o aluno deverá se adaptar ao currículo que estiver em vigor e ainda terá analisadas aquelas disciplinas que, a critério do Departamento Acadêmico correspondente, tiverem mudado essencialmente de conteúdo.
