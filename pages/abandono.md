@@ -1,4 +1,4 @@
-Do Abandono do Curso
+# **Do Abandono do Curso**
 
 O aluno que não renovar ou trancar sua matrícula a cada semestre letivo, nas datas constantes
 no Calendário Acadêmico, será considerado em situação de abandono.
