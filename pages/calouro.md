@@ -15,8 +15,7 @@ ATENÇÃO: A matricula de primeiro semestre é automática e feita nas disciplin
 - Na página do seu curso você irá encontrar:  O Projeto Pedagógico do Curso (PPC) tem todas as informações do curso. O Fluxograma mostra as disciplinas a serem cursadas em cada período. As Ementas das Disciplinas mostram as disciplinas em detalhes.
 - Acesso remoto: Obrigatório para assistir às aulas remotas ter um e-mail institucional do tipo <primeironome.ultimonome@aluno.cefet-rj.br>.
 - Como se cadastrar: Fazer o cadastro no endereço: https://registro.cefet-rj.br/; na parte esquerda inferior do endereço registro.cefet-rj.br existe o passo a passo para você se cadastrar, o manual do sistema; a sua conta é de uso individual e não deve ser compartilhada com qualquer outra pessoa. Consultar também: https://registro.cefet-rj.br/manuais/criacao_de_credenciais_no_registro.pdf.
-- O Teams/ plataforma Microsoft 365 é ferramenta utilizada no apoio as aulas presenciais
-Ambiente Virtual de Aprendizagem (AVA), baseado na ferramenta Moodle – AVA (ava.cefet-rj.br), é ferramenta utilizada em algumas disciplinas. A autenticação nesta ferramenta é feita com o mesmo usuário e senha do registro.
+- O Teams/ plataforma Microsoft 365 é ferramenta utilizada no apoio as aulas presenciais e o Ambiente Virtual de Aprendizagem (AVA), baseado na ferramenta Moodle – AVA (ava.cefet-rj.br), é ferramenta utilizada em algumas disciplinas. A autenticação nesta ferramenta é feita com o mesmo usuário e senha do registro.
 - O acesso à equipe (Teams) e aos cursos (Moodle) é feito de forma automática via http://www.cefet-rj.br/portal do aluno.
 - Canal Treinamento: Acessar Teams CefetRJ
 - O usuário criado neste endereço será padrão para todas as funcionalidades relacionadas ao Usuário do Registro DTINF.
