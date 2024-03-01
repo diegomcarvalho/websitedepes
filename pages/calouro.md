@@ -17,7 +17,7 @@ ATENÇÃO: A matricula de primeiro semestre é automática e feita nas disciplin
 - Como se cadastrar: Fazer o cadastro no endereço: https://registro.cefet-rj.br/; na parte esquerda inferior do endereço registro.cefet-rj.br existe o passo a passo para você se cadastrar, o manual do sistema; a sua conta é de uso individual e não deve ser compartilhada com qualquer outra pessoa. Consultar também: https://registro.cefet-rj.br/manuais/criacao_de_credenciais_no_registro.pdf.
 - O Teams/ plataforma Microsoft 365 é ferramenta utilizada no apoio as aulas presenciais e o Ambiente Virtual de Aprendizagem (AVA), baseado na ferramenta Moodle – AVA (ava.cefet-rj.br), é ferramenta utilizada em algumas disciplinas. A autenticação nesta ferramenta é feita com o mesmo usuário e senha do registro.
 - O acesso à equipe (Teams) e aos cursos (Moodle) é feito de forma automática via http://www.cefet-rj.br/portal do aluno.
-- Canal Treinamento: Acessar Teams CefetRJ
+- Canal Treinamento: Acessar Teams CefetRJ, instale o aplicativo Teams: https://www.microsoft.com/pt-br/microsoft-teams/download-app
 - O usuário criado neste endereço será padrão para todas as funcionalidades relacionadas ao Usuário do Registro DTINF.
 - Coordenadoria de Assistência Estudantil-CAE: Ligada ao Departamento de Extensão e Assuntos Comunitários–DEAC, apoia aos alunos em suas necessidades, entre na página  para maiores informações sobre o assunto. Veja se existem editais  e verifique se o seu caso se encaixa no escopo de um deles.
 - Calendário Acadêmico: Informa as datas de início e fim dos semestres e de atividades ao longo de cada semestre. Procurar o campus Maracanã, depois graduação e por último o ano.
