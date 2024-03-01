@@ -1,4 +1,4 @@
-# ** Avaliação do Rendimento Escolar**
+# **Avaliação do Rendimento Escolar**
 
 Os alunos que ingressam nos Cursos de Graduação do CEFET-RJ ficam sujeitos ao seguinte sistema de avaliação: Para disciplina de caráter  teórico, a nota semestral (NS)  será a média aritmética  entre as duas notas obtidas nos trabalhos escolares.
 * P1 - 1º trabalho/prova 
