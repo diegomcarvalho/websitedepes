@@ -1,3 +1,5 @@
+# **Projeto Pedagógico de Curso**
+
 Todo o curso superior tem o seu projeto documentado no PPC - Projeto Pedagógico de Curso. Nas páginas abaixo, você pode encontrar todos os cursos oferecidos no Depes, seus PPC, fluxograma de curso e ementas das disciplinas.
 
 - [Bacharelado em Administração](http://cefet-rj.br/index.php/bacharelado-em-administracao)
