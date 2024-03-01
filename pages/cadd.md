@@ -1,4 +1,4 @@
-# **Comissão de Acompanhamento de Desempenho Disciente**
+# **Comissão de Acompanhamento de Desempenho Discente**
 
 A comissão de Acompanhamento de Desempenho Discente (CADD) é responsável pelo acompanhamento acadêmico dos discentes de graduação do CEFET-RJ. Cada curso de graduação do CEFET-RJ possui uma CADD com as seguintes atribuições:
 
