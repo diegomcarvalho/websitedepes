@@ -1,3 +1,4 @@
 Laboratórios Virtuais 
 
-[COLAN](http://www.cefet-rj.br/index.php/laboratorios-virtuais-colan)
+retirar essa pagina, ficar só com labs virtuais
+
