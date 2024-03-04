@@ -31,7 +31,6 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
    1. [email institucional](pages/email.md)
    2. [Teams](pages/teams.md)
    3. [Laboratórios virtuais](pages/laboratorios_virtuais.md)
-   4. [Colan](pages/colan.md)
 7. Estágio
    1. [Interno](pages/estagio_interno.md)
    2. [Supervisionado](pages/estagio_supervisionado.md)
