@@ -1,4 +1,4 @@
-# * Do Cancelamento da Matrícula
+# Do Cancelamento da Matrícula
 
 O cancelamento de matrícula tem como consequência o encerramento definitivo do vínculo
 do aluno com a Instituição, acarretando a perda do direito à vaga no curso de graduação. O
