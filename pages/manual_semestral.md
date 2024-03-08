@@ -1,4 +1,4 @@
-# MATRÍCULA MANUAL
+# MATRÍCULA
 
 O DEPES é responsável somente pelos cursos de graduação do campus MARACANÃ. Todas as informações, formulários desta página e de todas do sub-menu desta são exclusivamente para campus Maracanã. Para os outros CAMPI procure as Gerencias acadêmicas e ou secretarias acadêmicas, consulte o site Quem é Quem para maiores informações.
 
