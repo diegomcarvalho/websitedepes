@@ -1,4 +1,4 @@
-Mobilidade Acadêmica Interna de Aluno Regular
+# Mobilidade Acadêmica Interna de Aluno Regular
 
 Estarão aptos a requererem inscrição em uma determinada disciplina fora da sua Unidade de Origem os alunos que atenderem aos seguintes requisitos:
 1. Possuírem coeficiente de rendimento acumulado igual ou superior a 6,0 (seis);
