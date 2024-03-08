@@ -10,4 +10,4 @@ Qualquer aluno regularmente matriculado (exceto alunos do Programa de Estudantes
 letivos do curso;
 - possua, no máximo, uma (01) reprovação por período letivo (ano ou semestre).
 
-Mais informações acessar pagina do [COGRA](https://github.com/diegomcarvalho/websitedepes/assets/154523301/df9635c5-f65e-41da-8acd-f82b7c2779d9)
+Mais informações acessar página do [COGRA](https://github.com/diegomcarvalho/websitedepes/assets/154523301/df9635c5-f65e-41da-8acd-f82b7c2779d9)
