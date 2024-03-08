@@ -1,3 +1,5 @@
+# Isenção de Disciplina 
+
 O DEPES é responsável somente pelos cursos de graduação do campus MARACANÃ. Todas as informações, formulários desta página e de todas do sub-menu desta são exclusivamente para campus Maracanã. Para os outros CAMPI procure as Gerencias acadêmicas e ou secretarias acadêmicas, consulte o site [Quem é Quem](http://www.cefet-rj.br/index.php/quem-e-quem) para maiores informações.
 
 O período para solicitar dispensa (isenção) de cursar disciplinas deve ser visto no [Calendário acadêmico](http://www.cefet-rj.br/index.php/calendarios)
