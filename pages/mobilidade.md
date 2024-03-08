@@ -20,3 +20,5 @@ Casos omissos serão analisados pelo Conselho de Ensino.
 
 O processo de mobilidade não é garantido, uma vez que depende de vagas disponíveis na turma interessada e como o processo é feito depois da terceira fase de matricula, o discente pode não conseguir cursar a disciplina.
 Caso o aluno peça mobilidade acadêmica a disciplina não deverá ser pedida no próprio curso, gerando duplicidade. Caso ocorra duplicidade a mobilidade será cancelada. 
+
+Mais informações acessar página do [COGRA](https://github.com/diegomcarvalho/websitedepes/assets/154523301/df9635c5-f65e-41da-8acd-f82b7c2779d9)
