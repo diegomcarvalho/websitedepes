@@ -50,15 +50,16 @@ Para eventuais necessidades futuras, salve a tela da matrícula após o envio do
 
 **Período atingido:** O aluno precisa ter chegado a determinado período letivo para poder cursar. E co-requisito, onde um aluno pode ter acesso à disciplina solicitada caso tenha vencido ou esteja cursando uma determinada disciplina.
  
+## 2ª FASE: 
 
-2ª FASE: Nesta fase não é possível alterar as disciplinas aceitas na 1ª FASE, apenas acrescentar disciplinas, segundo as prioridades estabelecidas anteriormente. Após o processamento da 1ª FASE de matrícula, a disciplina na situação "matriculada" não poderá ser trocada por outra na 2ª FASE.
+Nesta fase não é possível alterar as disciplinas aceitas na 1ª FASE, apenas acrescentar disciplinas, segundo as prioridades estabelecidas anteriormente. Após o processamento da 1ª FASE de matrícula, a disciplina na situação "matriculada" não poderá ser trocada por outra na 2ª FASE.
 
- 
+## 3ª FASE: 
 
-3ª FASE: Somente nesta fase é possível trancar a matrícula, o que libera a vaga e horário da sua grade para outra solicitação. Sendo possível ocorrer ajuste: de vagas que foram liberadas pelos trancamentos de matrículas ou de vagas que ficaram ociosas após a primeira ou 2ª FASE.
+Somente nesta fase é possível trancar a matrícula, o que libera a vaga e horário da sua grade para outra solicitação. Sendo possível ocorrer ajuste: de vagas que foram liberadas pelos trancamentos de matrículas ou de vagas que ficaram ociosas após a primeira ou 2ª FASE.
 
 O Trancamento de matrícula e a 3ª FASE são feitas ao longo do período, desta forma o aluno deverá assistir a todas as aulas, enquanto o resultado deste procedimento não tenha sido finalizado e que se tenha o resultado da 3ª FASE. As faltas não serão abonadas deste período o que poderá gerar reprovação por falta.
 
-Trancamento de matrícula: Neste momento ocorre o trancamento de matrículas que foram feitas na 1ª FASE ou na 2ª FASE. 
+**Trancamento de matrícula:** Neste momento ocorre o trancamento de matrículas que foram feitas na 1ª FASE ou na 2ª FASE. 
 
  
