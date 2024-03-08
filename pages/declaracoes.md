@@ -1,4 +1,4 @@
-PEDIDO DE DECLARAÇÕES E HISTÓRICOS ESCOLARES
+# DECLARAÇÕES E HISTÓRICOS ESCOLARES
 
 Os pedidos de Declarações e Históricos Escolares dos alunos do DEPES (campus Maracanã) devem ser enviados a Seção de Registros Acadêmicos de Nível Superior (SERAS):seras@cefet-rj.br.
 
