@@ -1,4 +1,4 @@
-Normas Gerais:
+# Normas Gerais:
 Com o surgimento da Lei nº 12.089, de 11 de novembro de 2009, fica proibido que uma
 mesma pessoa ocupe, na condição de estudante, 2 (duas) vagas , simultaneamente, em cursos
 de graduação de instituições públicas de ensino superior em todo o território nacional.
@@ -13,13 +13,13 @@ de sua matrícula.
 O aluno já matriculado em um curso de Graduação do CEFET/RJ, ao realizar a matrícula em
 um novo curso de Graduação no CEFET/RJ, estará automaticamente optando pelo novo curso.
 
-Matrícula Inicial
+# Matrícula Inicial
 
 Todas as informações necessárias para realizar a matrícula institucional dos candidatos classificados no processo seletivo do Sistema de Seleção Unificada (SiSU) para preenchimento das vagas oferecidas nos cursos de graduação do CEFET/RJ constam em Edital próprio a ser divulgado pelo Portal do CEFET/RJ.
 Os alunos ingressantes são automaticamente inscritos em todas as disciplinas do primeiro período da matriz curricular atual de seus cursos, obedecendo ao currículo mais recente.
 Portanto, apenas nesta ocasião, é dispensável a solicitação de matrícula. Nos períodos subseqüentes será obrigatória a ação do estudante no ato da matrícula.
 
-Renovação de Matrícula
+# Renovação de Matrícula
 
 A renovação de matrícula é feita pelos alunos em várias etapas, antes do início de cada semestre letivo regular, devendo ser considerada providência legal indispensável, para que os atos acadêmicos dos alunos tenham validade no período. O aluno que não renovar a sua matrícula na data estabelecida no calendário oficial será considerado, por força de lei, em situação de
 abandono de curso.
@@ -37,7 +37,7 @@ A matrícula nos cursos do CEFET/RJ segue as seguintes normas:
 - Não serão computados créditos para disciplina cursada sem matrícula comprovada.
 - Somente poderão frequentar aulas de determinada disciplina e turma os alunos que constem no respectivo Diário de Classe, cabendo ao professor ministrante, conferir a cada emissão do Diário de Classe o cumprimento deste regulamento. Somente será registrada a nota final e a frequência nas disciplinas em que o aluno tiver efetivamente obtido matrícula regular.
 
-Matrícula em Disciplina Optativa e Extracurricular
+# Matrícula em Disciplina Optativa e Extracurricular
 
 - Ao aluno é permitida a matrícula em disciplina optativa e extracurricular, desde que seja autorizada pelo Departamento Acadêmico responsável pela disciplina e pelo Departamento Acadêmico ao qual pertence o aluno.
 - A autorização citada acima será dispensada quando a turma solicitada pelo aluno estiver reservada para seu curso ou liberada de autorização pelos Departamentos Acadêmicos responsáveis.
@@ -46,7 +46,7 @@ Matrícula em Disciplina Optativa e Extracurricular
 
 IMPORTANTE - A aprovação em disciplinas cursadas como extracurriculares não confere ao aluno o direito a Diploma ou Certificado de Conclusão em Curso que não tenha ingressado por uma das formas previstas neste regimento.
 
-Confirmação e Correção de Matrícula
+# Confirmação e Correção de Matrícula
 
 - A confirmação de matrícula será realizada através do Comprovante de Inscrição em Disciplinas (CID). 
 - Esse documento mostra ao aluno as disciplinas em que foi matriculado e as disciplinas que foram recusadas, com as respectivas justificativas.
