@@ -12,6 +12,8 @@ O aluno que, por motivos pessoais, precisar requerer o trancamento de sua matrí
 
 IMPORTANTE: O aluno que não renovar ou trancar sua matrícula a cada semestre letivo, nas datas constantes no Calendário Acadêmico, será considerado em situação de abandono, perdendo direito à sua vaga no curso.
 
+O estudante deverá pedir o Trancamento no DERAC, via formulário de requerimento no balcão do DERAC de forma presencial, neste momento não existe opção de pedidos online.
+
 ## Trancamento Parcial da Matrícula
 
 É a suspensão da matrícula em uma ou mais disciplinas, realizada por meio de requerimento do aluno, sendo observado:
@@ -23,8 +25,12 @@ em, pelo menos, 2 (duas) disciplinas em qualquer semestre letivo.
 pleitear nova matrícula na disciplina.
 - O Trancamento Parcial deverá ser requerido no prazo estabelecido pelo Calendário Acadêmico da Graduação.
 
+**O estudante deverá pedir o Trancamento no DERAC, via formulário de requerimento no balcão do DERAC de forma presencial, neste momento não existe opção de pedidos online.**
+
 ## Do Destrancamento da Matrícula
 
-O aluno que estiver com matrícula trancada e desejar retornar às aulas no CEFET-RJ deverá entrar com requerimento na Secretaria Acadêmica dentro do prazo previsto no Calendário Acadêmico.
-
+O aluno que estiver com matrícula trancada e desejar retornar às aulas no CEFET-RJ deverá entrar com requerimento na Secretaria Acadêmica dentro do prazo previsto no Calendário Acadêmico. 
 Ao destrancar sua matrícula, o aluno deverá se adaptar ao currículo que estiver em vigor e ainda terá analisadas aquelas disciplinas que, a critério do Departamento Acadêmico correspondente, tiverem mudado essencialmente de conteúdo.
+O DESTRANCAMENTO DE PERÍODO Deverá ser feito de forma presencial no DERAC.
+
+**DERAC (Departamento de registro Acadêmico) no CEFET** - CAMPUS MARACANÃ, BLOCO C, SALA 13, (C-213) DE SEGUNDA A SEXTA-FEIRA, DE 9H ATÉ AS 20H. Av. Maracanã, 229 Maracanã – Rio de Janeiro/RJ CEP: 20271-110
