@@ -1,24 +1,28 @@
 MATRÍCULA MANUAL
- O DEPES é responsável somente pelos cursos de graduação do campus MARACANÃ. Todas as informações, formulários desta página e de todas do sub-menu desta são exclusivamente para campus Maracanã. Para os outros CAMPI procure as Gerencias acadêmicas e ou secretarias acadêmicas, consulte o site Quem é Quem para maiores informações.
+
+O DEPES é responsável somente pelos cursos de graduação do campus MARACANÃ. Todas as informações, formulários desta página e de todas do sub-menu desta são exclusivamente para campus Maracanã. Para os outros CAMPI procure as Gerencias acadêmicas e ou secretarias acadêmicas, consulte o site Quem é Quem para maiores informações.
 
 A cada período a matrícula dos cursos de graduação é dividida em três fases, consulte as datas no calendário acadêmico:
 
 Conforme o Manual do Aluno vigente, pág. 19 - “O aluno poderá cursar até 09 (nove) disciplinas por semestre, sendo 36 o número máximo de créditos.”, exceto no curso de Bacharelado em Línguas Estrangeiras Aplicadas às Negociações Internacionais que o Conselho de departamentos - CONDEP do Departamento de Ensino Superior - DEPES autorizou um número de 12 disciplinas e 36 créditos.
 
-1ª FASE: As disciplinas dos cursos do campus Maracanã ficam disponíveis, de acordo com o escopo de oferta definido para cada turma. Na grade curricular do curso no qual o aluno está matriculado, as disciplinas ofertadas nos cursos ficam acessíveis para escolha segundo as regras de prioridades estabelecidas mais abaixo.
+**1ª FASE:** As disciplinas dos cursos do campus Maracanã ficam disponíveis, de acordo com o escopo de oferta definido para cada turma. Na grade curricular do curso no qual o aluno está matriculado, as disciplinas ofertadas nos cursos ficam acessíveis para escolha segundo as regras de prioridades estabelecidas abaixo.
 
 OBSERVAÇÕES:
 
-Verificar antecipadamente se logins/senhas estão atualizados;
-Verificar o seu acesso ao Portal do Aluno;
-Comunicar eventuais problemas pelo sistema de chamados do CEFET/RJ em http://chamados.cefet-rj.br ou pelo e-mail sie@cefet-rj.br;
-Verificar se há pendência com a Biblioteca, esta impossibilitará a realização da matrícula;
+- Verificar antecipadamente se logins/senhas estão atualizados;
+- Verificar o seu acesso ao Portal do Aluno;
+- Comunicar eventuais problemas pelo sistema de chamados do CEFET/RJ em http://chamados.cefet-rj.br ou pelo e-mail sie@cefet-rj.br;
+- Verificar se há pendência com a Biblioteca, esta impossibilitará a realização da matrícula;
+
 Alunos que estão nas listas das Comissões de Acompanhamento de Desempenho Discente (CADDs) podem ter o acesso à área de solicitação de matrícula bloqueado. Nestes casos, procurar os representantes da CADD de seu curso ou campus;
 Outros problemas com disciplinas e questionamentos quanto ao resultado do processamento da matrícula devem ser encaminhados à SECAD;
 Para eventuais necessidades futuras, salve a tela da matrícula após o envio dos dados.
- Regras de Formação dos Índices de Priorização
 
- Cálculo do crédito: CR= CHteoria x1 + CHpratica x 0,5 + CH Estágio x 0,33
+**Regras de Formação dos Índices de Priorização**
+
+- Cálculo do crédito: CR= CHteoria x 1 + CHpratica x 0,5 + CH Estágio x 0,33
+
 Regras de priorização da matrícula por disciplina: A disciplina é disponibilizada aos alunos em diferentes contextos, assim o processo de Pontuação escalonar a escolha dos alunos a serem inscritos de forma preferencial. O sistema de matrícula atribui pontos (Pt) a cada inscrição de disciplina como forma de escalonar as prioridades para inclusão da disciplina. São quatro critérios básicos:
 
  
