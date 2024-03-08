@@ -6,7 +6,7 @@ O CR é calculado pela média ponderada das médias finais (MF), tendo como peso
 
 CR=(∑~(i=1)^n▒〖(〖MF〗_i*C_i)〗)/(∑_(i=1)^n▒C_1 )
 
-H ~ 2~0
+H ~2~0
 
 onde:
 CR - coeficiente de rendimento;
