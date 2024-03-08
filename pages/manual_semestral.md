@@ -6,7 +6,8 @@ A cada período a matrícula dos cursos de graduação é dividida em três fase
 
 Conforme o Manual do Aluno vigente, pág. 19 - “O aluno poderá cursar até 09 (nove) disciplinas por semestre, sendo 36 o número máximo de créditos.”, exceto no curso de [Bacharelado em Línguas Estrangeiras Aplicadas às Negociações Internacionais](https://www.cefet-rj.br/index.php/bacharelado-em-linguas-estrangeiras-aplicadas-as-negociacoes-internacionais) que o Conselho de departamentos - CONDEP do Departamento de Ensino Superior - DEPES autorizou um número de 12 disciplinas e 36 créditos.
 
-## **1ª FASE:** As disciplinas dos cursos do campus Maracanã ficam disponíveis, de acordo com o escopo de oferta definido para cada turma. Na grade curricular do curso no qual o aluno está matriculado, as disciplinas ofertadas nos cursos ficam acessíveis para escolha segundo as regras de prioridades estabelecidas abaixo.
+## **1ª FASE:** 
+As disciplinas dos cursos do campus Maracanã ficam disponíveis, de acordo com o escopo de oferta definido para cada turma. Na grade curricular do curso no qual o aluno está matriculado, as disciplinas ofertadas nos cursos ficam acessíveis para escolha segundo as regras de prioridades estabelecidas abaixo.
 
 OBSERVAÇÕES:
 
