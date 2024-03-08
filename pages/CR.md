@@ -4,7 +4,7 @@ O rendimento do aluno no CEFET-RJ é avaliado através do coeficiente de rendime
 
 O CR é calculado pela média ponderada das médias finais (MF), tendo como pesos o número de créditos (C) das disciplinas cursadas. A seguir, é apresentada a fórmula para o respectivo cálculo:
 
-CR=(∑~(i=1)^n▒〖(〖MF〗_i*C_i)〗)/(∑_(i=1)^n▒C_1 )
+CR=(∑~i=1~   ^n▒〖(〖MF〗_i*C_i)〗)/(∑_(i=1)^n▒C_1 )
 
 H ~2~
 
