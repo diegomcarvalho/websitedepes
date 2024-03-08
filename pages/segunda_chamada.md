@@ -1,5 +1,4 @@
-Pedido de prova de segunda chamada
-Conforme o Manual do Aluno de Graduação:
+# Segunda Chamada
 
 Será concedida  uma única prova substitutiva (P3) ao aluno que  faltar à P1 ou à P2, desde que devidamente justificada.
 
@@ -9,4 +8,4 @@ Nas disciplinas de caráter teórico-prático, a nota da P3 será somada à nota
 
 O resultado dessa soma, dividido por 3 (três), será a nota semestral (NS).
 
-No caso do Docente (professor) pedir a formalização do Pedido de prova substitutiva (P3). O discente(Aluno) deverá pedir (https://forms.office.com/r/FhUQaXFU2J)
+No caso do Docente (professor) pedir a formalização do Pedido de prova substitutiva (P3). O discente(Aluno) deverá solicitar através do formulário (https://forms.office.com/r/FhUQaXFU2J)
