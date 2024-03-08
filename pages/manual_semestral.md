@@ -1,10 +1,10 @@
-MATRÍCULA MANUAL
+# MATRÍCULA MANUAL
 
 O DEPES é responsável somente pelos cursos de graduação do campus MARACANÃ. Todas as informações, formulários desta página e de todas do sub-menu desta são exclusivamente para campus Maracanã. Para os outros CAMPI procure as Gerencias acadêmicas e ou secretarias acadêmicas, consulte o site Quem é Quem para maiores informações.
 
 A cada período a matrícula dos cursos de graduação é dividida em três fases, consulte as datas no calendário acadêmico:
 
-Conforme o Manual do Aluno vigente, pág. 19 - “O aluno poderá cursar até 09 (nove) disciplinas por semestre, sendo 36 o número máximo de créditos.”, exceto no curso de Bacharelado em Línguas Estrangeiras Aplicadas às Negociações Internacionais que o Conselho de departamentos - CONDEP do Departamento de Ensino Superior - DEPES autorizou um número de 12 disciplinas e 36 créditos.
+Conforme o Manual do Aluno vigente, pág. 19 - “O aluno poderá cursar até 09 (nove) disciplinas por semestre, sendo 36 o número máximo de créditos.”, exceto no curso de [Bacharelado em Línguas Estrangeiras Aplicadas às Negociações Internacionais](https://www.cefet-rj.br/index.php/bacharelado-em-linguas-estrangeiras-aplicadas-as-negociacoes-internacionais) que o Conselho de departamentos - CONDEP do Departamento de Ensino Superior - DEPES autorizou um número de 12 disciplinas e 36 créditos.
 
 **1ª FASE:** As disciplinas dos cursos do campus Maracanã ficam disponíveis, de acordo com o escopo de oferta definido para cada turma. Na grade curricular do curso no qual o aluno está matriculado, as disciplinas ofertadas nos cursos ficam acessíveis para escolha segundo as regras de prioridades estabelecidas abaixo.
 
@@ -21,20 +21,19 @@ Para eventuais necessidades futuras, salve a tela da matrícula após o envio do
 
 **Regras de Formação dos Índices de Priorização**
 
-- Cálculo do crédito: CR= CHteoria x 1 + CHpratica x 0,5 + CH Estágio x 0,33
+- Cálculo do crédito: CR= CHteoria x 1 + CHpratica x 0,5 + CHEstágio x 0,33
 
-Regras de priorização da matrícula por disciplina: A disciplina é disponibilizada aos alunos em diferentes contextos, assim o processo de Pontuação escalonar a escolha dos alunos a serem inscritos de forma preferencial. O sistema de matrícula atribui pontos (Pt) a cada inscrição de disciplina como forma de escalonar as prioridades para inclusão da disciplina. São quatro critérios básicos:
+**Regras de priorização da matrícula por disciplina:** O sistema de matrícula atribui pontos (Pt) a cada inscrição de disciplina como forma de classificar as prioridades para inclusão da disciplina.
 
+**Bonificação:** +5000 pontos de bonificação (disciplina do seu curso, período certo); +2000 pontos de bonificação (disciplina do seu curso, período qualquer); 0 ponto de bonificação (disciplina de outro curso).
+
+- 5000 pontos de bonificação (disciplina do seu curso, período certo): O aluno matriculado nas disciplinas recomendadas para o seu curso, seguindo a grade curricular proposta pela instituição sem repetir nenhuma disciplina, recebe, a cada disciplina, a maior bonificação de 5000 pontos, e pode seguir durante todo o curso e se formar sem o contratempo de ter que disputar disciplinas com alunos que não seguem a grade.
+- 2000 pontos de bonificação (disciplina do seu curso, período qualquer): Atribuído 2000 pontos à disciplina escolhida que foi ofertada para o curso do estudante, mas que não corresponde ao período ao qual o aluno está matriculado. Garante que nenhum aluno de outro curso tome a vaga de alunos que solicitam disciplinas ofertadas para seu próprio curso.
+- 0 ponto de bonificação (disciplina de outro curso): Atribuído 0 pontos à disciplina que o estudante que solicita matrícula em uma disciplina que foi ofertada para outro curso diferente do que o seu.
  
+**Penalidade:** -1000 pontos de penalidade (solicitações de matrícula de seu curso em disciplinas que tiver trancado no período anterior); 0 ponto em outras situações.
 
-Bonificação: +5000 pontos de bonificação (disciplina do seu curso, período certo); +2000 pontos de bonificação (disciplina do seu curso, período qualquer); 0 ponto de bonificação (disciplina de outro curso).
-5000 pontos de bonificação (disciplina do seu curso, período certo): O aluno matriculado nas disciplinas recomendadas para o seu curso, seguindo a grade curricular proposta pela instituição sem repetir nenhuma disciplina, recebe, a cada disciplina, a maior bonificação de 5000 pontos, e pode seguir durante todo o curso e se formar sem o contratempo de ter que disputar disciplinas com alunos que não seguem a grade.
-2000 pontos de bonificação (disciplina do seu curso, período qualquer): Atribuído 2000 pontos à disciplina escolhida que foi ofertada para o curso do estudante, mas que não corresponde ao período ao qual o aluno está matriculado. Garante que nenhum aluno de outro curso tome a vaga de alunos que solicitam disciplinas ofertadas para seu próprio curso.
-0 ponto de bonificação (disciplina de outro curso): Atribuído 0 pontos à disciplina que o estudante que solicita matrícula em uma disciplina que foi ofertada para outro curso diferente do que o seu.
- 
-
-Penalidade: -1000 pontos de penalidade (solicitações de matrícula de seu curso em disciplinas que tiver trancado no período anterior); 0 ponto em outras situações.
-Penalidade de 1000 pontos: O aluno será penalizado em 1000 pontos nas solicitações de matrícula de disciplinas de seu curso em que tiver trancado no período anterior. Esta penalização não abrange as vagas disputadas em turmas de outros cursos.
+- -1000 pontos de penalidade: O aluno será penalizado em 1000 pontos nas solicitações de matrícula de disciplinas de seu curso em que tiver trancado no período anterior. Esta penalização não abrange as vagas disputadas em turmas de outros cursos.
  
 
 Período Letivo (NP): Ao término de cada semestre será feito um somatório de todas cargas horárias (CH) das disciplinas “Vencidas”(ou seja, disciplina na qual o aluno de nota superior a média mínima e número de falta inferior a 25% do total da carga horaria). Com este somatório será feito uma análise, ao completar a CH mínima de cada período o aluno será promovido ao semestre seguinte, no caso de não totalizar o valor mínimo do semestre, o aluno irá continuar, para a o sistema acadêmico, parado no semestre atual. O sistema somente irá incrementar o semestre, ao passar o valor mínimo de CH. Desta forma, no sistema acadêmico o aluno só poderá estar entre o primeiro e o último semestre do curso, independentemente do número de períodos reais que o aluno cursou. (Por exemplo, um curso de 5 anos, tem 10 períodos. Assim, NP pode assumir os valores 1, 2, ..., 10). Disciplinas que não são da grade curricular do aluno não contam como disciplinas optativas e nem contam na Carga Horaria. A contagem da carga horária vencida no período anterior só é feita durante o início da 1ª fase de matrículas.
