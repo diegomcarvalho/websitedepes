@@ -1,4 +1,8 @@
-Trancamento Total da Matrícula
+# Trancamento
+
+O DEPES é responsável somente pelos cursos de graduação do campus MARACANÃ. Todas as informações, formulários desta página e de todas do sub-menu desta são exclusivamente para campus Maracanã. Para os outros CAMPI procure as Gerencias acadêmicas e ou secretarias acadêmicas, consulte o site Quem é Quem para maiores informações.
+
+## Trancamento Total da Matrícula
 
 O aluno que, por motivos pessoais, precisar requerer o trancamento de sua matrícula, poderá fazê-lo dentro do prazo previsto no Calendário Acadêmico, obedecendo às seguintes normas:
 
@@ -8,7 +12,7 @@ O aluno que, por motivos pessoais, precisar requerer o trancamento de sua matrí
 
 IMPORTANTE: O aluno que não renovar ou trancar sua matrícula a cada semestre letivo, nas datas constantes no Calendário Acadêmico, será considerado em situação de abandono, perdendo direito à sua vaga no curso.
 
-Trancamento Parcial da Matrícula
+## Trancamento Parcial da Matrícula
 
 É a suspensão da matrícula em uma ou mais disciplinas, realizada por meio de requerimento do aluno, sendo observado:
 - O trancamento parcial de matrícula fica condicionado ao aluno permanecer matriculado
@@ -19,7 +23,7 @@ em, pelo menos, 2 (duas) disciplinas em qualquer semestre letivo.
 pleitear nova matrícula na disciplina.
 - O Trancamento Parcial deverá ser requerido no prazo estabelecido pelo Calendário Acadêmico da Graduação.
 
-Do Destrancamento da Matrícula
+## Do Destrancamento da Matrícula
 
 O aluno que estiver com matrícula trancada e desejar retornar às aulas no CEFET-RJ deverá entrar com requerimento na Secretaria Acadêmica dentro do prazo previsto no Calendário Acadêmico.
 
