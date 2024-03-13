@@ -1,4 +1,4 @@
-# Reprovação 
+# REPROVAÇÃO 
 
 Conforme o Manual do Aluno de Graduação a reprovação poderá ocorrer por:
 
