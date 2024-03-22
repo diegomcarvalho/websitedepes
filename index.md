@@ -42,7 +42,7 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
    1. [Cursos](pages/cursos.md)
    2. [Palestras](pages/palestras.md)
 10. Mobilidade
-    1. [Interna](pages/mobilidade_interna.md)
+    1. [Interna](pages/mobilidade.md)
     2. [Externa Andifes](pages/mobilidade_externa_andifes.md)
 11. Fim de curso
     1. [Projeto Final](pages/projeto_final.md)
