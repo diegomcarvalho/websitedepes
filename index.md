@@ -28,8 +28,8 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
    1. [Horário das turmas](pages/horario.md)
    2. [Calendários](pages/calendarios.md)
 6. Ferramentas
-   1. [email institucional](pages/email.md)
-   2. [Teams](pages/teams.md)
+   1. [E-mail institucional](pages/ferramentas_email.md)
+   2. [Teams e AVA](pages/ferramentas_teams_e_ava.md)
    3. [Laboratórios virtuais](pages/laboratorios_virtuais.md)
 7. Estágio
    1. [Interno](pages/estagio_interno.md)
