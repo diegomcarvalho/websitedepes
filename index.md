@@ -36,7 +36,7 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
    2. [Supervisionado](pages/estagio_supervisionado.md)
    3. [Não supervisionado](pages/estagio_nao_supervisionado.md)
 8. Extensão
-   1. [Curricularização da extensão](pages/curricularizacao_da_extensao.md)
+   1. [Curricularização da extensão](pages/curricularizacao_de_extensao.md)
    2. [Programas e projetos de extensão](pages/programas_e_projetos_de_extensao.md)
 9. Atividades Complementares
    1. [Cursos](pages/cursos.md)
