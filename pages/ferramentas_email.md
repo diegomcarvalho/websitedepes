@@ -6,3 +6,4 @@ CADASTRE-SE E FAÇA SEU EMAIL INSTITUCIONAL
 
 Todas as informações necessárias à criação do e-mail institucional podem ser acessadas através do link  http://www.cefet-rj.br/index.php/avisos/3977-disponibilizacao-do-servico-de-e-mail-para-alunos.
 
+O aluno deverá utilizar o e-mail institucional para todas a comunicações oficiais realizadas com o CEFET-RJ, bem com para todas as solicitações realizadas com os departamentos da instituição.
