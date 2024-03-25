@@ -8,4 +8,4 @@ Nas disciplinas de caráter teórico-prático, a nota da P3 será somada à nota
 
 O resultado dessa soma, dividido por 3 (três), será a nota semestral (NS).
 
-No caso do Docente (professor) pedir a formalização do Pedido de prova substitutiva (P3). O discente(Aluno) deverá solicitar através do preenchimento do [requerimento.](https://cefet-rj.br/attachments/article/3488/Requerimento%20de%202a%20chamada%20de%20prova.pdf)
+No caso do Docente (professor) pedir a formalização do Pedido de prova substitutiva (P3). O discente(Aluno) deverá solicitar através do preenchimento do [requerimento,](https://cefet-rj.br/attachments/article/3488/Requerimento%20de%202a%20chamada%20de%20prova.pdf) que deve ser entregua a coordenação do curso.
