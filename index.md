@@ -22,8 +22,7 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
    1. [Matrícula e Renovação de Matrícula](pages/matricula.md)
    2. [Abandono](pages/abandono.md)
    3. [Cancelamento](pages/cancelamento.md)
-   4. [Trancamento de disciplina](pages/trancamento_destrancamento_de_disciplina.md)
-   5. [Trancamento de matrícula](pages/trancamento_destrancamento_de_matricula.md)
+   4. [Trancamento de matrícula](pages/trancamento_destrancamento_de_matricula.md)
 5. Horários
    1. [Horário das turmas](pages/horario.md)
    2. [Calendários](pages/calendarios.md)
