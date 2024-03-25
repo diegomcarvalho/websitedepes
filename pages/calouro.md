@@ -15,6 +15,8 @@ ATENÇÃO: A matricula de primeiro semestre é automática e feita nas disciplin
 
 - Na página do seu curso você irá encontrar:  O Projeto Pedagógico do Curso (PPC) tem todas as informações do curso. O Fluxograma mostra as disciplinas a serem cursadas em cada período. As Ementas das Disciplinas mostram as disciplinas em detalhes.
 - Acesso remoto: Obrigatório para assistir às aulas remotas ter um e-mail institucional do tipo <primeironome.ultimonome@aluno.cefet-rj.br>.
+- O e-mail institucional é a ferramenta oficial para comunicação dentro do CEFET-RJ. Seu uso é obrigatório para todas as correspondências oficiais garantindo que as informações sejam registradas adequadamente e que todos os procedimentos estejam de acordo com os padrões institucionais.
+- É responsabilidade do aluno verificar regularmente sua caixa de entrada do e-mail institucional para garantir que estejam cientes de qualquer comunicação importante ou atualizações da instituição.
 - Como se cadastrar: Fazer o cadastro no endereço: https://registro.cefet-rj.br/; na parte esquerda inferior do endereço registro.cefet-rj.br existe o passo a passo para você se cadastrar, o manual do sistema; a sua conta é de uso individual e não deve ser compartilhada com qualquer outra pessoa. Consultar também: https://registro.cefet-rj.br/manuais/criacao_de_credenciais_no_registro.pdf.
 - O usuário criado neste endereço será padrão para todas as funcionalidades relacionadas ao Usuário do Registro DTINF.
 - O login é cpf@cefet-rj.br e a senha é a mesma do email institucional e do registro. Esta senha pode ser alterada em registro.cefet-rj.br
