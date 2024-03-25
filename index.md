@@ -10,7 +10,8 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
       3. [Cadd](pages/cadd.md)
       4. [Isenção de disciplinas](pages/isencao.md)
       5. [Reprovação](pages/reprovacao.md)
-   3. [Frequencia](pages/frequencia.md) 
+   3. [Frequencia](pages/frequencia.md)
+   4. [Informes Gerais](pages/calouro.md)
 2. Declarações
    1. [De matrícula em curso](pages/de_matricula_em_curso.md)
    2. [Histórico escolar](pages/declaracoes.md)
