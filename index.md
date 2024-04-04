@@ -13,7 +13,7 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
    3. [Frequencia](pages/frequencia.md)
    4. [Informes Gerais](pages/calouro.md)
 2. Declarações
-   1. [De matrícula em curso](pages/de_matricula_em_curso.md)
+   1. [De matrícula em curso](pages/declaracoes.md)
    2. [Histórico escolar](pages/declaracoes.md)
    3. [Relatório de integralização](pages/relatorio_de_integralizacao.md)
 3. Provas e avaliações
