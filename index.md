@@ -3,7 +3,7 @@
 O Departamento de Educação Superior (Depes) é responsável pelos cursos de graduação da Sede do Maracanã do Cefet/RJ. Ele é oriundo da primeira oferta de um curso de graduação no Centro que começou em 1966 com o curso de Engenharia de Operações. Com a criação do Cefet/RJ em 1978, se iniciou a oferta das **engeharias** elétrica, eletrônica, mecânica e telecomunicações. Hoje, o Depes conta com 12 cursos superiores em diferentes áreas do conhecimento.
 
 1. Calouros
-   1. [Projeto Pedagógico de Curso](pages/PPC.md)
+   1. [Cursos](pages/PPC.md)
    2. Desempenho
       1. [Coeficiente de Rendimento](pages/CR.md)
       2. [Avaliação das disciplinas](pages/avaliacao.md)
