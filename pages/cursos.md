@@ -1,6 +1,6 @@
 # **Cursos de Graduação CEFET-RJ**
 
-O CEFET-RJ Unidade Maracanã possui 14 cursos de nível superior. Nas páginas abaixo, você pode encontrar todos os cursos oferecidos no Depes, seus PPC, fluxograma de curso e ementas das disciplinas.
+O CEFET-RJ Unidade Maracanã possui 14 cursos de nível superior. Nas páginas abaixo, você pode encontrar todos os cursos oferecidos no Depes, seus PPC, fluxograma de curso e ementas das disciplinas, assim como as atividades de extenção desenvolvidas em cada curso.
 
 - [Bacharelado em Administração](http://cefet-rj.br/index.php/bacharelado-em-administracao)
 - [Bacharelado em Ciência da Computação](http://cefet-rj.br/index.php/bacharelado-em-ciencia-da-computacao)
