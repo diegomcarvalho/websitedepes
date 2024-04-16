@@ -55,6 +55,6 @@ O Departamento de Educação Superior (Depes) é responsável pelos cursos de gr
     2. [Iniciação Científica](pages/iniciacao_cientifica.md)
     3. [Intercâmbio Estudantil](pages/intercambio_estudantil.md)
 13. Expedientes Oficiais - Atos DEPES
-    1. [Atos 2021](Exercicio2021.md)
-    2. [Atos 2020](Exercicio2020.md)
+    1. [Atos 2021](Atos2021.md)
+    2. [Atos 2020](Atos2020.md)
            
