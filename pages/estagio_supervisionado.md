@@ -35,13 +35,7 @@ A) Após a aprovação do estágio pelo professor orientador da disciplina está
 
 B) Ficha de Frequência: deverá ser preenchida e assinada pelo Supervisor do estágio na empresa para a avaliação de desempenho do estagiário. Caso o aluno seja funcionário da empresa, estará isento de apresentá-la no ato da entrega do Relatório de Estágio.
 
-A seguir estão modelos e documentos norteadores para apoiar nos preenchimentos.
-- [Dados da Disciplina: Professor orientador, carga horaria e pré-requisito da DES - por curso.](http://www.cefet-rj.br/attachments/article/201/Dados%20da%20Disciplina.pdf)
-- [Fluxo da disciplina: Orientações sobre a DES](http://www.cefet-rj.br/attachments/article/201/Fluxo%20da%20Disciplina.pdf)
-- [Passo a passo: Instruções para fazer as atividades](http://www.cefet-rj.br/attachments/article/201/Passo%20a%20Passo.pdf))
-- [Perguntas frequentes: Respostas para as principais dúvidas sobre a DES.](http://www.cefet-rj.br/attachments/article/201/Perguntas%20Frequentes%20.pdf)
-- Modelos de documentos: Plano de Atividades, Ficha de Frequência Modelo Estagiário, Ficha de Frequencia Modelo Empregado ou MEI e Capa de Relatório. (link para acessar documento)
-- Orientações de preenchimento: Plano de Atividades, Ficha de Frequência e Relatório. (link para acessar documento)
+Os modelos e documentos norteadores para apoiar nos preenchimentos podem ser encontrados em .
 
 **VI. Duração do Estágio:**
 Contados a partir da data de matrícula na disciplina, para estudantes em efetiva atividade de estágio, terá uma duração mínima de horas conforme o curso em questão.
@@ -50,7 +44,7 @@ Contados a partir da data de matrícula na disciplina, para estudantes em efetiv
 A avaliação do Estágio Supervisionado dependerá da entrega, nos prazos estabelecidos, ao professor orientador da disciplina estágio supervisionado na coordenação do Relatório Final de Estágio e da Ficha de Frequência, aos quais será atribuída uma nota relacionada ao cumprimento dos requisitos mínimos estabelecidos.
 
 **VIII. Datas para a entrega do Relatório de Estágio Supervisionado:**
-Serão a cada semestre divulgados na página do DEPES. (colocar o link para uma página só para calendário)
+Serão a cada semestre divulgados na página do [DEPES.]([colocar o link para uma página só para calendário](https://www.cefet-rj.br/index.php/estagio)
 
 **IX. Observações:**
 O aluno que não entregar o Relatório ao final do período letivo corrente deverá renovar a matrícula na disciplina Estágio Supervisionado, garantindo o registro de sua nota no período letivo correspondente à entrega do Relatório de Estágio. A matrícula na disciplina Estágio Supervisionado equivalerá às matrículas em disciplinas curriculares normais, porém não será computada para o cálculo da carga horária semanal.
