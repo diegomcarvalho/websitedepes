@@ -6,7 +6,7 @@ O Estágio Supervisionado é uma disciplina obrigatória do Currículo Pleno dos
 
 Por meio dessa disciplina, o aluno conhece e participa in loco dos principais problemas inerentes à profissão pretendida, melhor se qualificando para o exercício técnico profissional. Assim, toda uma gama de valores e conhecimentos científicos e socioculturais enriquecerá sua bagagem de vivência, aumentando sua experiência profissional.
 
-Ao ingressar em um estágio, para cumprimento da etapa estágio supervisionado, o aluno deverá procurar a DIEMP para verificar se a empresa onde fará o estágio está devidamente conveniada com o CEFET-RJ. Caso positivo, retirar o Termo de Compromisso e o Plano de Atividades. De posse do Termo de Compromisso e do Plano de Atividades preenchido pelo Supervisor do estágio na empresa, o aluno deverá procurar o professor orientador da disciplina estágio supervisionado na sua coordenação. As atividades descritas no Plano de Atividades devem ser diretamente compatíveis com a formação profissional do estudante de forma a contribuir para seu processo educativo, essa informação será atestada pelo professor orientador da disciplina estágio supervisionado. Com o Termo de Compromisso e com o Plano de Atividades devidamente aprovados na coordenação do curso, o aluno deverá procurar a DIEMP para coleta final das assinaturas. Cumpridas essas etapas, o aluno deverá se matricular na disciplina Somente após a matrícula é que o tempo de estágio começa a ser computado. No Formulário de Informação (colocar link), o aluno deverá, além do preenchimento, anexar todos os documentos pertinentes ao estágio, que então voltará às coordenações para verificação.
+Ao ingressar em um estágio, para cumprimento da etapa estágio supervisionado, o aluno deverá procurar a DIEMP para verificar se a empresa onde fará o estágio está devidamente conveniada com o CEFET-RJ. Caso positivo, retirar o Termo de Compromisso e o Plano de Atividades. De posse do Termo de Compromisso e do Plano de Atividades preenchido pelo Supervisor do estágio na empresa, o aluno deverá procurar o professor orientador da disciplina estágio supervisionado na sua coordenação. As atividades descritas no Plano de Atividades devem ser diretamente compatíveis com a formação profissional do estudante de forma a contribuir para seu processo educativo, essa informação será atestada pelo professor orientador da disciplina estágio supervisionado. Com o Termo de Compromisso e com o Plano de Atividades devidamente aprovados na coordenação do curso, o aluno deverá procurar a DIEMP para coleta final das assinaturas. Cumpridas essas etapas, o aluno deverá se matricular na disciplina Somente após a matrícula é que o tempo de estágio começa a ser computado. No Formulário de Informação disponivel em [Estágio Supervisionado.](https://www.cefet-rj.br/index.php/estagio), o aluno deverá, além do preenchimento, anexar todos os documentos pertinentes ao estágio, que então voltará às coordenações para verificação.
 
 A realização do estágio curricular, por parte do estudante, não acarretará vínculo empregatício de qualquer natureza. Entretanto, poderá o estagiário receber uma bolsa-auxílio para ajudar na sua locomoção e outras despesas, devendo o estudante estar segurado contra acidentes pessoais.
 O acompanhamento e controle do cumprimento do programa do estágio são feitos pelo professor orientador da disciplina estágio supervisionado na sua coordenação, através da análise de um relatório realizado pelo aluno e de uma Ficha de Frequência preenchida pelo Supervisor do estágio na empresa.
@@ -15,7 +15,7 @@ O acompanhamento e controle do cumprimento do programa do estágio são feitos p
 As regras a seguir define os procedimentos que devem ser seguidos pelos acadêmicos, pré-requisitos e prazos, servindo como orientação e definindo os direitos e as obrigações dos envolvidos.
 
 **I. Habilitação:**
-O estudante estará habilitado a esta disciplina após ter cumprido, com aprovação, um mínimo de créditos da matriz curricular dos cursos, momento em que começa a alcançar a maturidade técnico-científica necessária para assumir tarefas no mercado de trabalho. As condições que habilitam os alunos de cada curso devem ser consultadas em Dados da Disciplina (colocar link)
+O estudante estará habilitado a esta disciplina após ter cumprido, com aprovação, um mínimo de créditos da matriz curricular dos cursos, momento em que começa a alcançar a maturidade técnico-científica necessária para assumir tarefas no mercado de trabalho. As condições que habilitam os alunos de cada curso devem ser consultadas em Dados da Disciplina que encontra-se nos anexos da página [Estágio Supervisionado.](https://www.cefet-rj.br/index.php/estagio)
 
 **II. Formalização do Estágio junto à DIEMP:**
 Deverá o aluno formalizar seu estágio junto à DIEMP – bloco B – térreo, com credenciamento da empresa concedente do estágio e assinatura do Termo de Compromisso e do Plano de Atividades.
@@ -27,7 +27,7 @@ Deverá o aluno formalizar seu estágio junto à DIEMP – bloco B – térreo, 
 - Documentos auxiliares estão disponíveis na página do DEPES.
 
 **IV. Prazos para a entrega da documentação para formalização da disciplina Estágio Supervisionado:**
-O período, horário e forma de entrega são definidos a cada semestre e divulgado na página do CEFET/RJ. (colocar link)
+O período, horário e forma de entrega são definidos a cada semestre e divulgado na página de [Estágio Supervisionado.](https://www.cefet-rj.br/index.php/estagio)
 
 **V. Documentação informativa para elaboração do relatório de Estágio Supervisionado:**
 
@@ -44,11 +44,13 @@ Contados a partir da data de matrícula na disciplina, para estudantes em efetiv
 A avaliação do Estágio Supervisionado dependerá da entrega, nos prazos estabelecidos, ao professor orientador da disciplina estágio supervisionado na coordenação do Relatório Final de Estágio e da Ficha de Frequência, aos quais será atribuída uma nota relacionada ao cumprimento dos requisitos mínimos estabelecidos.
 
 **VIII. Datas para a entrega do Relatório de Estágio Supervisionado:**
-Serão a cada semestre divulgados na página do [DEPES.](https://www.cefet-rj.br/index.php/estagio)
+Serão a cada semestre divulgados na página de [Estágio Supervisionado.](https://www.cefet-rj.br/index.php/estagio)
 
 **IX. Observações:**
 O aluno que não entregar o Relatório ao final do período letivo corrente deverá renovar a matrícula na disciplina Estágio Supervisionado, garantindo o registro de sua nota no período letivo correspondente à entrega do Relatório de Estágio. A matrícula na disciplina Estágio Supervisionado equivalerá às matrículas em disciplinas curriculares normais, porém não será computada para o cálculo da carga horária semanal.
 No impedimento legal, quanto às datas e horários de atendimento estabelecidos neste regulamento, atender-se-á à entrega dos documentos através de procuração ou pessoa credenciada. Será expressamente recusado o recebimento da documentação quando apresentada fora do prazo determinado e dos horários de atendimento estabelecidos.
+
+Os detalhes de documentos e datas serão sempre atualizados em [Estágio Supervisionado.](https://www.cefet-rj.br/index.php/estagio)
 
 
 
