@@ -44,7 +44,7 @@ Contados a partir da data de matrícula na disciplina, para estudantes em efetiv
 A avaliação do Estágio Supervisionado dependerá da entrega, nos prazos estabelecidos, ao professor orientador da disciplina estágio supervisionado na coordenação do Relatório Final de Estágio e da Ficha de Frequência, aos quais será atribuída uma nota relacionada ao cumprimento dos requisitos mínimos estabelecidos.
 
 **VIII. Datas para a entrega do Relatório de Estágio Supervisionado:**
-Serão a cada semestre divulgados na página do [DEPES.]([colocar o link para uma página só para calendário](https://www.cefet-rj.br/index.php/estagio)
+Serão a cada semestre divulgados na página do [DEPES.](https://www.cefet-rj.br/index.php/estagio)
 
 **IX. Observações:**
 O aluno que não entregar o Relatório ao final do período letivo corrente deverá renovar a matrícula na disciplina Estágio Supervisionado, garantindo o registro de sua nota no período letivo correspondente à entrega do Relatório de Estágio. A matrícula na disciplina Estágio Supervisionado equivalerá às matrículas em disciplinas curriculares normais, porém não será computada para o cálculo da carga horária semanal.
