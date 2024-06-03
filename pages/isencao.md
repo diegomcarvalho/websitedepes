@@ -18,4 +18,5 @@ Para maiores informações consulte:
  - Conteúdo programático da disciplina cursada originalmente;
  - Preencher os formulários abaixo:
  - [Formulário Capa requerimento de Isenção](http://www.cefet-rj.br/attachments/article/3488/REQUERIMENTO DE ISENÇÃO DE DISCIPLINA.docx)
+ - E-mail de contato: isencao.graduacao.maracana@cefet-rj.br 
  - [Formulário Lista de disciplinas](http://www.cefet-rj.br/attachments/article/3488/REQUERIMENTO.DISCIPLINAS.ISENÇÃO.GRAD. (1).docx)
